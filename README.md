@@ -10,4 +10,3 @@ ERC-20 specifically is a standard which outlines the technical specification of 
  Its a simple Smart Contract extending ERC20 standard 
  Thereby using functions from ERC20 in our contract Token.sol
  
- `is` -> `exteding the Contract `
