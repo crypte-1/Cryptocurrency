@@ -8,6 +8,7 @@ contract token is ERC20
 {
     constructor() ERC20("name","symbl")
     {
+         //inner private function
         _mint (msg.sender,1000000 * (10**18));
         
     }
